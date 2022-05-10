@@ -8,10 +8,10 @@
 
 ## Description
 
-Test your internet connection!
+Test your encoding/decoding skills
 
 ## Details
-Download the flag {{url_for("flag.txt", "here")}}.
+Download the flag {{https://github.com/VenantTumukunde/pico_challenge/blob/main/flag.txt, "here")}}.
 
 ## Hints
 
@@ -35,7 +35,7 @@ init: true
 
 ## Learning Objective
 
-Test and verify your connectivity to our CTF
+Apply ascii code in encoding / decoding
 
 ## Tags
 
